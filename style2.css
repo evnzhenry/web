@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(58, 138, 138);
+}
+
+
+table{
+    margin-top: 20px;
+    padding: 20px;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left; 
+    background-color: aquamarine;
+}
+
+label{
+    color: rgb(28, 28, 163);
+    text-shadow: 0dvb;
+    font-weight: bold;
+    
+}
+
+button{
+    color: chartreuse;
+    background-color: black;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+input[type="checkbox"] {
+    margin-bottom: 10px;
+}
